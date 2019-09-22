@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu",
+      "sdkFolder": "C:\\Users\\Yaroslav\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app",
+      "makeFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\.cxx",
+      "cxxFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Yaroslav\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "19.2.5345600",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}

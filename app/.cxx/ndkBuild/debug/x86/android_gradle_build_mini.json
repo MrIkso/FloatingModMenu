@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Android.mk",
+    "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Yaroslav\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dC:/Users/Yaroslav/Desktop/Project/FloatingModMenu/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Yaroslav\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dC:/Users/Yaroslav/Desktop/Project/FloatingModMenu/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "KittyMemory-debug-x86": {
+      "artifactName": "KittyMemory",
+      "buildCommand": "C:\\Users\\Yaroslav\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dC:/Users/Yaroslav/Desktop/Project/FloatingModMenu/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/Yaroslav/Desktop/Project/FloatingModMenu/app/build/intermediates/ndkBuild/debug/obj/local/x86/libKittyMemory.so",
+      "abi": "x86",
+      "output": "C:\\Users\\Yaroslav\\Desktop\\Project\\FloatingModMenu\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libKittyMemory.so"
+    }
+  }
+}
